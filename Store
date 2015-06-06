@@ -1,0 +1,135 @@
+<html>
+  <head>
+  <body background="http://wallpapers55.com/wp-content/uploads/2013/11/Light-Green-Background-Wallpaper-HD.jpg">
+  <link rel="stylesheet" type="text/css" href="styles/main.css">
+    <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+      <nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://www.cakesite.cu.cc/CakeStore%20(1).html">Cake</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Cake Apps<span class="sr-only">(current)</span></a></li>
+        <li><a href="http://www.cakesite.cu.cc/CakeApps.html">Cake Blog</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+            <li class="divider"></li>
+            <li><a href="#">One more separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="#">Link</a></li>
+            <li class="dropdown">
+             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Dropdown <span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="#">Action</a></li>
+               <li><a href="#">Another action</a></li>
+             <li><a href="#">Something else here</a></li>
+            <li class="divider"></li>
+          <li><a href="#">Separated link</a></li>
+        </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+<style type="text/css">
+
+.showonhover .panel-body {
+  display: none;
+}
+
+.showonhover:hover .panel-body {
+  display: inline-block;
+}
+
+
+
+  </style>
+  <title>Cake</title>
+  </head>
+
+
+  <body>
+        <div class="alert alert-success">
+  <button type="button" class="close" data-dismiss="alert">&times;</button>
+  <h4>Hello!</h4>
+  Welcome To The Cake Apps. Enjoy Your Stay!
+</div>
+       <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>  
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script> 
+    <div class="container">
+    <div class="jumbotron">
+  <center><h1>Apps Are Shown Here!</h1>
+    <img src="http://www.mellologistica.com.br/www/webroot/img/arrow-icon_orange.png">
+  <p>We Are Constantly Tryring To Grow Our Website So There Will Be More Games Soon!</p>
+  <p><a class="btn btn-danger btn-lg" href="CakeStore.html" role="button">Cake Homepage!</a></p>
+</center>
+</div>
+</div>
+
+  <div class="container">
+    <div class="jumbotron">
+  <center><h1>Welcome To The First App... Food Tag!</h1>
+    <img src="http://www.graphicsfuel.com/wp-content/uploads/2012/05/thumbs-up-256x256.png">
+  <p>|You play tag as cake and steak "5 Stars best game ever!" -Nobody.|Tags: Multiplayer, Food, Cake, Steak|To download: You have to go to the link, hit "download as zip", select all from the file it downloaded to, hit extract all, hit the extract button, then double click the exe.|</p>
+  <p><a class="btn btn-danger btn-lg" href="https://www.dropbox.com/sh/qdluhsx998zxx2l/AABYlJLn-Bjw0SzDouyf2Dlna?dl=0" role="button">Download Here</a></p>
+</center>
+</div>
+</div>
+
+
+  <div class="container">
+    <div class="jumbotron">
+  <center><h1>First App!</h1>
+    
+  <p>Its called CakeRun</p>
+  <p><a class="btn btn-danger btn-lg" href="CakeRun.exe" role="button">Play!</a></p>
+</center>
+</div>
+</div>
+
+
+
+
+
+
+
+
+<div class="jumbotron">
+  <center><p>Cake Produced By: Justin Featherstone and Teddy Patenaude</p>
+  <p>All rights reserved, any un-authorized uses or tampering will result in A Fine! Cake Studios
+    Version 0.0.1</p>
+  <p><a class="btn btn-danger btn-lg" href="#" role="button">Cake</a></p>
+</center>
+</div>
+</div>
+
+
+</style>
+</body>
+  
+</html>
